@@ -1,0 +1,1 @@
+{"delegations":[{"paths":["*"],"repositories":["imagerepo","director"]}],"repositories":{"director":{"mirrors":["http://localhost:30401/111"]},"imagerepo":{"mirrors":["http://localhost:30301"]}}}
