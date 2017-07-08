@@ -919,3 +919,237 @@ Metadata for the following Targets has been validated by both the Director and t
 [2017.07.06 22:24:32UTC] [primary] INFO [primary.py:update_exists_for_ecu():788]
 Received request for an update for a Secondary ECU ('potato') for which this Primary has no update instructions from the Director.
 
+[2017.07.06 22:38:25UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial '1352' has been registered as a Secondary with this Primary.
+
+[2017.07.06 22:38:25UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial 'ecu11111' has been registered as a Secondary with this Primary.
+
+[2017.07.06 22:38:25UTC] [primary] DEBUG [primary.py:register_ecu_manifest():988]
+[32m Primary received an ECU manifest from ECU 'ecu11111', along with nonce 5[0m
+
+[2017.07.06 22:38:38UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial 'potato' has been registered as a Secondary with this Primary.
+
+[2017.07.06 22:38:38UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial 'TCUdemocar' has been registered as a Secondary with this Primary.
+
+[2017.07.06 22:38:38UTC] [primary] INFO [primary.py:register_new_secondary():899]
+ECU Serial 'potato' already registered with this Primary.
+
+[2017.07.06 22:38:38UTC] [primary] DEBUG [primary.py:primary_update_cycle():480]
+Refreshing top level metadata from all repositories.
+
+[2017.07.06 22:38:44UTC] [primary] INFO [primary.py:primary_update_cycle():489]
+A correctly signed statement from the Director indicates that this vehicle has NO updates to install.
+
+[2017.07.06 22:38:44UTC] [primary] DEBUG [primary.py:primary_update_cycle():497]
+Retrieving validated image file metadata from Image and Director Repositories.
+
+[2017.07.06 22:38:44UTC] [primary] INFO [primary.py:primary_update_cycle():559]
+Metadata for the following Targets has been validated by both the Director and the Image repository. They will now be downloaded:[]
+
+[2017.07.06 22:38:44UTC] [primary] INFO [primary.py:update_exists_for_ecu():788]
+Received request for an update for a Secondary ECU ('potato') for which this Primary has no update instructions from the Director.
+
+[2017.07.07 17:04:33UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial '1352' has been registered as a Secondary with this Primary.
+
+[2017.07.07 17:04:33UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial 'ecu11111' has been registered as a Secondary with this Primary.
+
+[2017.07.07 17:04:33UTC] [primary] DEBUG [primary.py:register_ecu_manifest():988]
+[32m Primary received an ECU manifest from ECU 'ecu11111', along with nonce 5[0m
+
+[2017.07.07 17:04:45UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial 'potato' has been registered as a Secondary with this Primary.
+
+[2017.07.07 17:04:45UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial 'TCUdemocar' has been registered as a Secondary with this Primary.
+
+[2017.07.07 17:04:45UTC] [primary] INFO [primary.py:register_new_secondary():899]
+ECU Serial 'potato' already registered with this Primary.
+
+[2017.07.07 17:04:45UTC] [primary] DEBUG [primary.py:primary_update_cycle():480]
+Refreshing top level metadata from all repositories.
+
+[2017.07.07 17:04:51UTC] [primary] INFO [primary.py:primary_update_cycle():489]
+A correctly signed statement from the Director indicates that this vehicle has NO updates to install.
+
+[2017.07.07 17:04:51UTC] [primary] DEBUG [primary.py:primary_update_cycle():497]
+Retrieving validated image file metadata from Image and Director Repositories.
+
+[2017.07.07 17:04:51UTC] [primary] INFO [primary.py:primary_update_cycle():559]
+Metadata for the following Targets has been validated by both the Director and the Image repository. They will now be downloaded:[]
+
+[2017.07.07 17:04:51UTC] [primary] INFO [primary.py:update_exists_for_ecu():788]
+Received request for an update for a Secondary ECU ('potato') for which this Primary has no update instructions from the Director.
+
+[2017.07.07 17:10:56UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial '1352' has been registered as a Secondary with this Primary.
+
+[2017.07.07 17:10:56UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial 'ecu11111' has been registered as a Secondary with this Primary.
+
+[2017.07.07 17:10:56UTC] [primary] DEBUG [primary.py:register_ecu_manifest():988]
+[32m Primary received an ECU manifest from ECU 'ecu11111', along with nonce 5[0m
+
+[2017.07.07 17:11:08UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial 'potato' has been registered as a Secondary with this Primary.
+
+[2017.07.07 17:11:08UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial 'TCUdemocar' has been registered as a Secondary with this Primary.
+
+[2017.07.07 17:11:08UTC] [primary] INFO [primary.py:register_new_secondary():899]
+ECU Serial 'potato' already registered with this Primary.
+
+[2017.07.07 17:11:08UTC] [primary] INFO [primary.py:update_exists_for_ecu():788]
+Received request for an update for a Secondary ECU ('potato') for which this Primary has no update instructions from the Director.
+
+[2017.07.07 21:03:52UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial '1352' has been registered as a Secondary with this Primary.
+
+[2017.07.07 21:03:52UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial 'ecu11111' has been registered as a Secondary with this Primary.
+
+[2017.07.07 21:03:52UTC] [primary] DEBUG [primary.py:register_ecu_manifest():988]
+[32m Primary received an ECU manifest from ECU 'ecu11111', along with nonce 5[0m
+
+[2017.07.07 21:04:01UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial '1352' has been registered as a Secondary with this Primary.
+
+[2017.07.07 21:04:01UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial 'ecu11111' has been registered as a Secondary with this Primary.
+
+[2017.07.07 21:04:01UTC] [primary] DEBUG [primary.py:register_ecu_manifest():988]
+[32m Primary received an ECU manifest from ECU 'ecu11111', along with nonce 5[0m
+
+[2017.07.07 21:04:10UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial 'potato' has been registered as a Secondary with this Primary.
+
+[2017.07.07 21:04:10UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial 'TCUdemocar' has been registered as a Secondary with this Primary.
+
+[2017.07.07 21:04:10UTC] [primary] INFO [primary.py:register_new_secondary():899]
+ECU Serial 'potato' already registered with this Primary.
+
+[2017.07.07 21:04:10UTC] [primary] INFO [primary.py:update_exists_for_ecu():788]
+Received request for an update for a Secondary ECU ('potato') for which this Primary has no update instructions from the Director.
+
+[2017.07.08 21:51:38UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial '1352' has been registered as a Secondary with this Primary.
+
+[2017.07.08 21:51:38UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial 'ecu11111' has been registered as a Secondary with this Primary.
+
+[2017.07.08 21:51:38UTC] [primary] DEBUG [primary.py:register_ecu_manifest():988]
+[32m Primary received an ECU manifest from ECU 'ecu11111', along with nonce 5[0m
+
+[2017.07.08 21:51:51UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial 'potato' has been registered as a Secondary with this Primary.
+
+[2017.07.08 21:51:51UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial 'TCUdemocar' has been registered as a Secondary with this Primary.
+
+[2017.07.08 21:51:51UTC] [primary] INFO [primary.py:register_new_secondary():899]
+ECU Serial 'potato' already registered with this Primary.
+
+[2017.07.08 21:51:51UTC] [primary] INFO [primary.py:update_exists_for_ecu():788]
+Received request for an update for a Secondary ECU ('potato') for which this Primary has no update instructions from the Director.
+
+[2017.07.08 21:51:51UTC] [primary] INFO [primary.py:update_exists_for_ecu():788]
+Received request for an update for a Secondary ECU ('TCUdemocar') for which this Primary has no update instructions from the Director.
+
+[2017.07.08 21:53:33UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial '1352' has been registered as a Secondary with this Primary.
+
+[2017.07.08 21:53:33UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial 'ecu11111' has been registered as a Secondary with this Primary.
+
+[2017.07.08 21:53:33UTC] [primary] DEBUG [primary.py:register_ecu_manifest():988]
+[32m Primary received an ECU manifest from ECU 'ecu11111', along with nonce 5[0m
+
+[2017.07.08 21:53:39UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial 'potato' has been registered as a Secondary with this Primary.
+
+[2017.07.08 21:53:39UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial 'TCUdemocar' has been registered as a Secondary with this Primary.
+
+[2017.07.08 21:53:39UTC] [primary] INFO [primary.py:register_new_secondary():899]
+ECU Serial 'potato' already registered with this Primary.
+
+[2017.07.08 21:53:39UTC] [primary] DEBUG [primary.py:primary_update_cycle():480]
+Refreshing top level metadata from all repositories.
+
+[2017.07.08 22:04:38UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial '1352' has been registered as a Secondary with this Primary.
+
+[2017.07.08 22:04:38UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial 'ecu11111' has been registered as a Secondary with this Primary.
+
+[2017.07.08 22:04:38UTC] [primary] DEBUG [primary.py:register_ecu_manifest():988]
+[32m Primary received an ECU manifest from ECU 'ecu11111', along with nonce 5[0m
+
+[2017.07.08 22:04:50UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial 'potato' has been registered as a Secondary with this Primary.
+
+[2017.07.08 22:04:50UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial 'TCUdemocar' has been registered as a Secondary with this Primary.
+
+[2017.07.08 22:04:50UTC] [primary] INFO [primary.py:register_new_secondary():899]
+ECU Serial 'potato' already registered with this Primary.
+
+[2017.07.08 22:04:50UTC] [primary] DEBUG [primary.py:primary_update_cycle():480]
+Refreshing top level metadata from all repositories.
+
+[2017.07.08 22:05:09UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial '1352' has been registered as a Secondary with this Primary.
+
+[2017.07.08 22:05:09UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial 'ecu11111' has been registered as a Secondary with this Primary.
+
+[2017.07.08 22:05:09UTC] [primary] DEBUG [primary.py:register_ecu_manifest():988]
+[32m Primary received an ECU manifest from ECU 'ecu11111', along with nonce 5[0m
+
+[2017.07.08 22:06:21UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial '1352' has been registered as a Secondary with this Primary.
+
+[2017.07.08 22:06:21UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial 'ecu11111' has been registered as a Secondary with this Primary.
+
+[2017.07.08 22:06:21UTC] [primary] DEBUG [primary.py:register_ecu_manifest():988]
+[32m Primary received an ECU manifest from ECU 'ecu11111', along with nonce 5[0m
+
+[2017.07.08 22:06:27UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial 'potato' has been registered as a Secondary with this Primary.
+
+[2017.07.08 22:06:27UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial 'TCUdemocar' has been registered as a Secondary with this Primary.
+
+[2017.07.08 22:06:27UTC] [primary] INFO [primary.py:register_new_secondary():899]
+ECU Serial 'potato' already registered with this Primary.
+
+[2017.07.08 22:06:27UTC] [primary] DEBUG [primary.py:primary_update_cycle():480]
+Refreshing top level metadata from all repositories.
+
+[2017.07.08 22:10:47UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial '1352' has been registered as a Secondary with this Primary.
+
+[2017.07.08 22:10:47UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial 'ecu11111' has been registered as a Secondary with this Primary.
+
+[2017.07.08 22:10:47UTC] [primary] DEBUG [primary.py:register_ecu_manifest():988]
+[32m Primary received an ECU manifest from ECU 'ecu11111', along with nonce 5[0m
+
+[2017.07.08 22:10:59UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial 'potato' has been registered as a Secondary with this Primary.
+
+[2017.07.08 22:10:59UTC] [primary] DEBUG [primary.py:register_new_secondary():904]
+ECU Serial 'TCUdemocar' has been registered as a Secondary with this Primary.
+
+[2017.07.08 22:10:59UTC] [primary] INFO [primary.py:register_new_secondary():899]
+ECU Serial 'potato' already registered with this Primary.
+
+[2017.07.08 22:10:59UTC] [primary] DEBUG [primary.py:primary_update_cycle():480]
+Refreshing top level metadata from all repositories.
+
